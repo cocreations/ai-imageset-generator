@@ -1,0 +1,315 @@
+[
+    {
+      "name": "The Fool",
+      "desc": "New beginnings, optimism, trust in life"
+    },
+    {
+      "name": "The Magician",
+      "desc": "Action, the power to manifest"
+    },
+    {
+      "name": "The High Priestess",
+      "desc": "Inaction, going within, the mystical"
+    },
+    {
+      "name": "The Empress",
+      "desc": "Abundance, nurturing, fertility, life in bloom!"
+    },
+    {
+      "name": "The Emperor",
+      "desc": "Structure, stability, rules and power"
+    },
+    {
+      "name": "The Hierophant",
+      "desc": "Institutions, tradition, society and its rules"
+    },
+    {
+      "name": "The Lovers",
+      "desc": "Sexuality, passion, choice, uniting"
+    },
+    {
+      "name": "The Chariot",
+      "desc": "Movement, progress, integration"
+    },
+    {
+      "name": "Strength",
+      "desc": "Courage, subtle power, integration of animal self"
+    },
+    {
+      "name": "The Hermit",
+      "desc": "Meditation, solitude, consciousness"
+    },
+    {
+      "name": "Wheel of Fortune",
+      "desc": "Cycles, change, ups and downs"
+    },
+    {
+      "name": "Justice",
+      "desc": "Fairness, equality, balance"
+    },
+    {
+      "name": "The Hanged Man",
+      "desc": "Surrender, new perspective, enlightenment"
+    },
+    {
+      "name": "Death",
+      "desc": "The end of something, change, the impermeability of all things"
+    },
+    {
+      "name": "Temperance",
+      "desc": "Balance, moderation, being sensible"
+    },
+    {
+      "name": "The Devil",
+      "desc": "Destructive patterns, addiction, giving away your power"
+    },
+    {
+      "name": "The Tower",
+      "desc": "Collapse of stable structures, release, sudden insight"
+    },
+    {
+      "name": "The Star",
+      "desc": "Hope, calm, a good omen!"
+    },
+    {
+      "name": "The Moon",
+      "desc": "Mystery, the subconscious, dreams"
+    },
+    {
+      "name": "The Sun",
+      "desc": "Success, happiness, all will be well"
+    },
+    {
+      "name": "Judgment",
+      "desc": "Rebirth, a new phase, inner calling"
+    },
+    {
+      "name": "The World",
+      "desc": "Completion, wholeness, attainment, celebration of life"
+    },
+    {
+      "name": "King of Swords",
+      "desc": "Serious, controlling, rational and mind/intellect-focused"
+    },
+    {
+      "name": "Queen of Swords",
+      "desc": "Intelligent, writer, communicative yet cold - cuts through B.S."
+    },
+    {
+      "name": "Knight of Swords",
+      "desc": "Fierce, determined, aggressively pursues goals"
+    },
+    {
+      "name": "Page of Swords",
+      "desc": "mentally unstable or intellectually immature, acts without thinking"
+    },
+    {
+      "name": "Ace of Swords",
+      "desc": "A fresh start, a sudden opportunity or idea, clarity"
+    },
+    {
+      "name": "2 of Swords",
+      "desc": "Indecision"
+    },
+    {
+      "name": "3 of Swords",
+      "desc": "heartbreak, betrayal"
+    },
+    {
+      "name": "4 of Swords",
+      "desc": "meditation, rest, retreat"
+    },
+    {
+      "name": "5 of Swords",
+      "desc": "mind games, hostility"
+    },
+    {
+      "name": "6 of Swords",
+      "desc": "leaving, accepting help, going somewhere better"
+    },
+    {
+      "name": "7 of Swords",
+      "desc": "secret plans, abandoning ship"
+    },
+    {
+      "name": "8 of Swords",
+      "desc": "feeling powerless and stuck"
+    },
+    {
+      "name": "9 of Swords",
+      "desc": "Overactive mind, anxiety"
+    },
+    {
+      "name": "10 of Swords",
+      "desc": "feeling defeated, self sabotage"
+    },
+    {
+      "name": "King of Cups",
+      "desc": "Need to acknowledge deep feelings, avoid drowning out emotions"
+    },
+    {
+      "name": "Queen of Cups",
+      "desc": "Emotionally nurturing, intuitive, sensitive"
+    },
+    {
+      "name": "Knight of Cups",
+      "desc": "Romantic, adventurous, following one’s heart"
+    },
+    {
+      "name": "Page of Cups",
+      "desc": "Creative, inspired, learning artistic skill"
+    },
+    {
+      "name": "Ace of Cups",
+      "desc": "emotional fulfillment, joy"
+    },
+    {
+      "name": "2 of Cups",
+      "desc": "partnership, mutual attraction, compatibility"
+    },
+    {
+      "name": "3 of Cups",
+      "desc": "celebration, fun with friends, laughter"
+    },
+    {
+      "name": "4 of Cups",
+      "desc": "boredom, dissatisfaction with what is being offered"
+    },
+    {
+      "name": "5 of Cups",
+      "desc": "dwelling on the negative, self pity"
+    },
+    {
+      "name": "6 of Cups",
+      "desc": "sentimentality, kindness, help"
+    },
+    {
+      "name": "7 of Cups",
+      "desc": "so many choices! Indecision, getting lost in fantasy"
+    },
+    {
+      "name": "8 of Cups",
+      "desc": "abandoning something in search of something better"
+    },
+    {
+      "name": "9 of Cups",
+      "desc": "indulgence, self-satisfaction"
+    },
+    {
+      "name": "10 of Cups",
+      "desc": "emotional bliss, happiness, attainment"
+    },
+    {
+      "name": "King of Wands",
+      "desc": "Career focused, mature, passionate"
+    },
+    {
+      "name": "Queen of Wands",
+      "desc": "Confidant, focused, has zest for life"
+    },
+    {
+      "name": "Knight of Wands",
+      "desc": "An adventurous risk taker who follows his passions"
+    },
+    {
+      "name": "Page of Wands",
+      "desc": "newly inspired, excited about life and work"
+    },
+    {
+      "name": "Ace of Wands",
+      "desc": "New beginnings, creative spark, fertile ideas"
+    },
+    {
+      "name": "2 of Wands",
+      "desc": "Contemplation, assessing ones life direction"
+    },
+    {
+      "name": "3 of Wands",
+      "desc": "Reaping the rewards of your efforts"
+    },
+    {
+      "name": "4 of Wands",
+      "desc": "Celebration, safety, the home"
+    },
+    {
+      "name": "5 of Wands",
+      "desc": "Competition, minor struggles or disagreements"
+    },
+    {
+      "name": "6 of Wands",
+      "desc": "Success, accolades and achievement"
+    },
+    {
+      "name": "7 of Wands",
+      "desc": "Feeling defensive and on guard"
+    },
+    {
+      "name": "8 of Wands",
+      "desc": "Speed, things manifesting quickly"
+    },
+    {
+      "name": "9 of Wands",
+      "desc": "Pessimism, gearing up for the worst"
+    },
+    {
+      "name": "10 of Wands",
+      "desc": "Feeling oppressed, exhaustion, too many responsibilities"
+    },
+    {
+      "name": "King of Pentacles",
+      "desc": "Enjoys the good life (food, drink and leisure), financially secure"
+    },
+    {
+      "name": "Queen of Pentacles",
+      "desc": "Healthy in body and finances, grounded and calm"
+    },
+    {
+      "name": "Knight of Pentacles",
+      "desc": "Cautious, sensible and slow to progress"
+    },
+    {
+      "name": "Page of Pentacles",
+      "desc": "Student, commitment to learning"
+    },
+    {
+      "name": "Ace of Pentacles",
+      "desc": "Financial reward, clarity of life purpose, goals"
+    },
+    {
+      "name": "2 of Pentacles",
+      "desc": "Balance, multitasking"
+    },
+    {
+      "name": "3 of Pentacles",
+      "desc": "Meaningful work, enjoying one’s work, suitable career"
+    },
+    {
+      "name": "4 of Pentacles",
+      "desc": "Hoarding, feeling poor, holding self back out of fear"
+    },
+    {
+      "name": "5 of Pentacles",
+      "desc": "Minor money troubles, health problems, feeling like an outsider"
+    },
+    {
+      "name": "6 of Pentacles",
+      "desc": "Charity, accepting and giving help"
+    },
+    {
+      "name": "7 of Pentacles",
+      "desc": "Patience, waiting for your plans to bear fruit"
+    },
+    {
+      "name": "8 of Pentacles",
+      "desc": "Hard work, focused efforts, laying the groundwork"
+    },
+    {
+      "name": "9 of Pentacles",
+      "desc": "Luxury, rest, financial and material comforts"
+    },
+    {
+      "name": "10 of Pentacles",
+      "desc": "Financial success, strong business relationships"
+    }
+  ]
+  

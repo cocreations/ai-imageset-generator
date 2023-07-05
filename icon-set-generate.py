@@ -53,6 +53,8 @@ def main():
                 for row in reader:
                     prompt = f"an image of {row['name']} ({row['desc']}), {main_prompt}"
                     image_url = call_dalle_api(api_key, prompt)
+                    # output to stdout: "(X of Y) done : name, desc, image_url"
+                    print(f"({reader.line_num} of {len(list(reader))}) done : {row['name']}, {row['desc']}, {image_url}")
                     results.append({'name': row['name'], 'desc': row['desc'], 'image_url': image_url})
 
         elif file_ext == '.json':
@@ -61,6 +63,8 @@ def main():
                 for item in data:
                     prompt = f"an image of {item['name']} ({item['desc']}), {main_prompt}"
                     image_url = call_dalle_api(api_key, prompt)
+                    # output to stdout: "(X of Y) done : name, desc, image_url"
+                    print(f"({data.index(item) + 1} of {len(data)}) done : {item['name']}, {item['desc']}, {image_url}")
                     results.append({'name': item['name'], 'desc': item['desc'], 'image_url': image_url})
 
         else:
